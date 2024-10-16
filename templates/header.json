@@ -1,0 +1,255 @@
+{
+    "version": "0.4",
+    "title": "Header",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-header",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "68c80a00",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=5a55d0f"
+                },
+                "_title": "Header Section"
+            },
+            "elements": [
+                {
+                    "id": "6e35deba",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 15.133,
+                        "content_position": "center",
+                        "_inline_size_mobile": 70,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "74ac636c",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/yrkit.rometheme.pro\/jonk\/wp-content\/uploads\/sites\/10\/2022\/02\/jonk-logo-color.png",
+                                    "id": 280,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "align": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "20a7693d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 84.867,
+                        "content_position": "center",
+                        "_inline_size_mobile": 30,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_tablet": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "9feeb54",
+                            "settings": {
+                                "elementskit_submenu_container_width": "220px",
+                                "elementskit_nav_menu": "jonk-menu",
+                                "elementskit_main_menu_position": "elementskit-menu-po-right",
+                                "elementskit_nav_menu_logo": {
+                                    "url": "https:\/\/yrkit.rometheme.pro\/jonk\/wp-content\/uploads\/sites\/10\/2022\/02\/jonk-logo-color.png",
+                                    "id": 280,
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "elementskit_menubar_height": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "elementskit_menubar_background_background": "classic",
+                                "elementskit_item_background_background": "classic",
+                                "elementskit_menu_item_spacing": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "elementskit_submenu_item_spacing": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "elementskit_menu_item_background_background": "classic",
+                                "elementskit_menu_item_background_hover_background": "classic",
+                                "elementskit_nav_sub_menu_active_bg_color_background": "classic",
+                                "elementskit_panel_submenu_border_border": "solid",
+                                "elementskit_panel_submenu_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "elementskit_submenu_container_background_background": "classic",
+                                "elementskit_menu_toggle_spacing_tablet": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "15",
+                                    "left": "15",
+                                    "isLinked": true
+                                },
+                                "elementskit_menu_toggle_border_radius_tablet": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "elementskit_menu_toggle_background_background": "classic",
+                                "elementskit_menu_toggle_border_border": "solid",
+                                "elementskit_menu_toggle_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "elementskit_menu_toggle_background_hover_background": "classic",
+                                "elementskit_menu_close_spacing_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "elementskit_menu_close_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "17",
+                                    "right": "17",
+                                    "bottom": "17",
+                                    "left": "17",
+                                    "isLinked": true
+                                },
+                                "elementskit_menu_close_background_background": "classic",
+                                "elementskit_menu_close_border_border": "solid",
+                                "elementskit_menu_close_border_width_tablet": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "__globals__": {
+                                    "elementskit_content_typography_typography": "globals\/typography?id=c9edcf3",
+                                    "elementskit_menu_text_color": "globals\/colors?id=872a07d",
+                                    "elementskit_item_color_hover": "globals\/colors?id=primary",
+                                    "elementskit_nav_menu_active_text_color": "globals\/colors?id=primary",
+                                    "elementskit_menubar_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_style_tab_submenu_indicator_color": "globals\/colors?id=872a07d",
+                                    "elementskit_menu_item_typography_typography": "globals\/typography?id=c9edcf3",
+                                    "elementskit_menu_item_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_submenu_item_color": "globals\/colors?id=872a07d",
+                                    "elementskit_menu_item_background_hover_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_item_text_color_hover": "globals\/colors?id=primary",
+                                    "elementskit_nav_sub_menu_active_bg_color_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_nav_sub_menu_active_text_color": "globals\/colors?id=primary",
+                                    "elementskit_submenu_container_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_panel_submenu_border_color": "globals\/colors?id=24331bf",
+                                    "elementskit_menu_toggle_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_menu_toggle_background_hover_color": "globals\/colors?id=f23b0aa",
+                                    "elementskit_menu_toggle_border_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_menu_toggle_icon_color": "globals\/colors?id=primary",
+                                    "elementskit_menu_toggle_icon_color_hover": "globals\/colors?id=primary",
+                                    "elementskit_menu_close_typography_typography": "globals\/typography?id=c9edcf3",
+                                    "elementskit_menu_close_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_item_background_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_menu_close_icon_color": "globals\/colors?id=primary",
+                                    "elementskit_menu_close_border_color": "globals\/colors?id=5a55d0f",
+                                    "elementskit_menu_close_icon_color_hover": "globals\/colors?id=primary",
+                                    "elementskit_menu_text_color_tablet": "globals\/colors?id=872a07d",
+                                    "elementskit_style_tab_submenu_indicator_color_tablet": "globals\/colors?id=872a07d",
+                                    "elementskit_submenu_item_color_tablet": "globals\/colors?id=872a07d",
+                                    "elementskit_item_text_color_hover_tablet": "globals\/colors?id=primary",
+                                    "elementskit_nav_sub_menu_active_text_color_tablet": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "ekit-nav-menu",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
